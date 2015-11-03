@@ -1,0 +1,18 @@
+{
+  "name": "hello-polymer",
+  "authors": [
+    "samurai20000 <samurai20000@gmail.com>"
+  ],
+  "description": "hello polymer world",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
