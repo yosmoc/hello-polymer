@@ -3,7 +3,7 @@
 ## Setup
 
 1. `$ npm install`
-2. `$ node_modules_bower/bin/bower update`
+2. `$ node_modules/bower/bin/bower update`
 
 ## Try
 
