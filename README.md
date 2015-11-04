@@ -1,5 +1,10 @@
 # Hello Polymer
 
+## Dependencies
+
+- node.js
+- npm
+
 ## Setup
 
 1. `$ npm install`
